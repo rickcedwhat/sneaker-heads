@@ -27,3 +27,44 @@ Images:
 - "https://i.pinimg.com/236x/d6/3f/56/d63f563519df0ece564b82c72e9e306c.jpg"
     - (You may use any image you would like for the background!)
 */
+img {
+    height:400px;
+    width:600px;
+    border:5px solid;
+}
+
+body {
+    background-image: url("jordan-dunk.webp");
+    /* background-image: url("https://i.pinimg.com/236x/d6/3f/56/d63f563519df0ece564b82c72e9e306c.jpg"); */
+    font-family: Copperplate;
+    background-size:contain;
+    text-align: center;
+}
+
+h1 {
+    background:white;
+    text-align: center;
+    font-size:5em;
+}
+
+div {
+    display: flex;
+    flex-direction:column;
+    align-items: center;
+}
+
+p {
+    border-radius:5px;
+    background:white;
+    border:5px solid;
+    max-width: 600px;
+    margin:5px;
+}
+
+#row1 *{
+    border-color: #74c9f1;
+}
+
+#row2 * {
+    border-color:  #fb4040;
+}
