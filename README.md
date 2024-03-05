@@ -1,6 +1,6 @@
-### Check Out [My Solution](https://raw.githack.com/rickcedwhat/sneaker-heads/main/index.html) 
-
 ![logo](https://user-images.githubusercontent.com/44912347/202250287-a5d277c0-62fe-4180-9aa2-ed699404c771.jpg)
+
+## Check Out [My Solution](https://raw.githack.com/rickcedwhat/sneaker-heads/main/index.html) 
 
 # Sneaker Heads Solution
 **GOAL**: We are promoting the Air Jordan 1’s and Air Jordan 2’s. Your goal with this exercise is to take the pre-existing HTML and style it up using CSS! Take what we have provided in the repo and use your knowledge of CSS Selectors and Properties in order to transform it to the goal provided!
